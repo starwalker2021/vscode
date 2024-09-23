@@ -160,16 +160,3 @@ Futuristic Painting App HTML Code
 
 </body>
 </html>
-Features Explained
-1.	Color Picker: Users can click on color swatches to select colors.
-2.	Material Suggestions: Suggested materials are displayed with icons, giving users quick access to essential tools.
-3.	AR Visualizer Button: A button to launch the AR visualizer (simulated with an alert for this example).
-4.	Cost Estimation: Users can input the area size and get an estimated cost.
-5.	Modern Design: The UI is designed with a clean and modern aesthetic, suitable for a professional app.
-Future Enhancements
-To truly make this app extraordinary:
-•	Integrate a 3D modeling library like Three.js for room visualization.
-•	Use AR.js or a similar library to implement the AR feature.
-•	Incorporate an AI service to provide personalized color recommendations based on user inputs and trends.
-•	Add user authentication and project saving capabilities for a more robust experience.
-This structure provides a solid foundation for a futuristic painting app that can be expanded with more advanced features and technologies.
